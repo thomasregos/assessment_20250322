@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "assessment-20250322"
+version = "0.1.0"
+description = "Probability prediction based on soccer event data"
+authors = ["thomasregos"]
+readme = "README.md"
+packages = [{include = "assessment_20250322"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
