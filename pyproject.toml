@@ -11,6 +11,7 @@ python = "^3.11"
 pandas = "^2.2.3"
 numpy = "^2.2.4"
 ipykernel = "^6.29.5"
+mplsoccer = "^1.4.0"
 
 
 [tool.poetry.group.dev.dependencies]
