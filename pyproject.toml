@@ -17,6 +17,7 @@ hdbscan = "^0.8.40"
 hyperopt = "^0.2.7"
 umap-learn = "^0.5.7"
 xgboost = "^3.0.0"
+scikit-optimize = "^0.10.2"
 
 
 [tool.poetry.group.dev.dependencies]
